@@ -1,7 +1,7 @@
 # odin-recipes
 https://www.theodinproject.com/lessons/foundations-recipes
 
-I feel that the approach adopted by The Odin Project is very suitable for me who is just about to enter the world of professional developers.
+I feel that The Odin Project's approach is very suitable for me who is just entering the world of professional development.
 
 With a brief and practical explanation, I can quickly understand the basic operations of git. The links that are included as supplementary material to understand the subject more broadly and in depth, are really very useful. I feel that this is very important to me.
 
